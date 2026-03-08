@@ -49,10 +49,11 @@
    ```bash
    git clone https://github.com/just-between-us/WTelegramUserClient.git
    cd WTelegramUserClient
+   cd SimpleTelegramClient
    ```
 2. Запустите
    ```bash
-   dotnet run
+   dotnet run --project SimpleTelegramClient
    ```
 3. Следуйте инструкциям в консоли
    - Задайте API ID и API Hash
